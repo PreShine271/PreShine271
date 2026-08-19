@@ -48,19 +48,19 @@ Try it live: [pa-ji-ai.streamlit.app](https://pa-ji-ai.streamlit.app/)
 
 ## Current development
 
-- ✅ Authentication implemented
-- ✅ Lead capture implemented
-- ✅ Analytics integrated
-- ✅ Testing infrastructure
-- ✅ War Room — live
-- ✅ Study Buddy — live
-- 🚧 Draft Generator & Research/Analysis — in progress
+- Authentication implemented
+-  Lead capture implemented
+-  Analytics integrated
+-  Testing infrastructure
+-  War Room — live
+-  Study Buddy — live
+- Draft Generator, Argument generator, Legal Chatbot & Research/Analysis — in progress
 
 ---
 
 ## Team
 
-Built by an engineering student. I leads backend/product, UI/UX, brand, and marketing.
+Built by an engineering student. I leads backend/product, UI/UX, brand, and marketing. Hired some people to assist me with all this, however doing all the main work by myself.
 
 ---
 
